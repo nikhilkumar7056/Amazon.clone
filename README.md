@@ -18,3 +18,6 @@ This project was created for learning **frontend development** and practicing **
 
 ## 🚀 Live Demo
 [View on GitHub Pages](https://github.com/nikhilkumar7056/Amazon.clone)
+
+## 📸 Preview
+host(file:///C:/Users/nikhi/Downloads/amozon%20clone/IMAGE/index.html)
