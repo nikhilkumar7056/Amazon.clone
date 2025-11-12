@@ -17,4 +17,4 @@ It recreates the look and feel of Amazon’s home page, including:
 This project was created for learning **frontend development** and practicing **website layout, responsiveness, and styling**.
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://nikhilkumar7056.github.com/amazon-clone/)
+[View on GitHub Pages](https://github.com/nikhilkumar7056/Amazon.clone)
